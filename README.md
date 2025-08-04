@@ -1,4 +1,4 @@
-# �� Sistema Bancário - Backend API
+# Sistema Bancário - Backend API
 
 Sistema bancário robusto inspirado no Banco do Brasil, com foco no desenvolvimento de APIs RESTful utilizando Java e Spring Boot. O projeto implementa padrões de segurança, escalabilidade e conformidade com regulamentações do mercado financeiro brasileiro.
 
