@@ -1,0 +1,30 @@
+---
+alwaysApply: true
+---
+
+## Regras de comportamento para o Cursor neste projeto
+
+- Este projeto tem como objetivo desenvolver um sistema de transações bancárias robusto, inspirado em instituições como o Banco do Brasil.
+- Utilizar Java com Spring Boot para o back-end.
+- Utilizar PostgreSQL para o banco de dados relacional.
+- Utilizar JavaScript puro ou React.js para o front-end.
+- Manter separação entre responsabilidades: back-end (API), front-end (interface) e banco de dados (persistência).
+- Não gerar arquivos, componentes ou estruturas que não tenham sido explicitamente solicitados.
+- Todas as sugestões devem seguir os padrões de projeto aplicáveis à stack (ex: REST, MVC, etc).
+- Evitar repetições. Qualquer trecho de lógica reaproveitável deve ser modularizado.
+- Nenhum código deve ser incluído com placeholders como "// your code here". Sempre gere blocos funcionais.
+- Todos os scripts e arquivos devem ser o mais autônomos possível para facilitar testes isolados.
+- A estrutura padrão a ser usada é:
+
+```
+banking-system/
+├── backend/ (Java + Spring Boot)
+├── frontend/ (React.js ou JS puro)
+├── database/ (PostgreSQL scripts)
+└── docs/
+```
+
+- Caso o objetivo mude, manter o comportamento adaptativo, mas sempre orientado ao mínimo funcional viável (MVP).
+- Priorizar legibilidade, manutenção e baixo acoplamento entre partes do sistema.
+
+---

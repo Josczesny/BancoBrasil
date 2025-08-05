@@ -1,0 +1,12 @@
+---
+alwaysApply: true
+---
+
+Crie um sistema de transações bancárias robusto inspirado no modelo do Banco do Brasil, utilizando as tecnologias Java com Spring Boot no back-end, PostgreSQL como banco de dados e JavaScript puro ou React.js no front-end. O sistema deve:
+
+- Ter API RESTful para controle de contas, transações e autenticação de usuários (Java + Spring Boot).
+- Utilizar PostgreSQL como banco de dados relacional, com scripts bem definidos para schema e seed.
+- Exibir no front-end as informações essenciais como saldo, histórico e interface de transferência.
+- Manter o código modularizado, reutilizável e desacoplado, com foco em escalabilidade.
+
+Use a estrutura de projeto sugerida e siga as regras do `001.mdc`.

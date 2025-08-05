@@ -1,0 +1,17 @@
+---
+alwaysApply: true
+---
+
+Projeto de sistema bancário core, inspirado no Banco do Brasil. Foco em:
+- Segurança (criptografia, autenticação forte, 2FA)
+- Conformidade (Open Banking, Febraban, logs de auditoria)
+- Escalabilidade (Kafka, Redis, PostgreSQL com schemas SQL separados por módulo, Kubernetes)
+- Agilidade e precisão (API REST para comunicação front/back, microserviços, modularização clara)
+- Interfaces leves, funcionais e responsivas (React + Tailwind CSS)
+- Front-end exibe saldos, extratos, telas de autenticação, formulários de transferência
+- Nenhum framework adicional fora do estabelecido.
+- Organização, clareza e escalabilidade são mandatórios
+
+O objetivo é desenvolver uma plataforma bancária de ponta a ponta com padrões de mercado.
+
+Esse contexto deve permanecer ativo durante todo o desenvolvimento.
